@@ -1,6 +1,6 @@
 import React from 'react';
 import { Router, Switch, Route } from 'react-router-dom';
-import history from './history';
+import history from './History';
 import Login from './LoginView';
 import Dash from './DashboardView';
 
