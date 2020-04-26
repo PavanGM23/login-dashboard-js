@@ -6,7 +6,7 @@ class DashboardView extends React.Component {
         return (
             <div>
                 <h1>Dashboard</h1>
-            <h1> user ${this.props.user}</h1>
+            <h1> Hello {this.props.user}</h1>
             </div>
         );
     }
